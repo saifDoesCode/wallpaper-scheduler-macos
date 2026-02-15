@@ -15,7 +15,7 @@ Automatically switch between light and dark wallpapers based on time of day on m
 ### 1. Clone or Download
 
 ```bash
-git clone https://github.com/yourusername/wallpaper-scheduler-macos.git
+git clone https://github.com/saifDoesCode/wallpaper-scheduler-macos.git
 cd wallpaper-scheduler-macos
 ```
 
